@@ -1,0 +1,7 @@
+{
+  "name": "Tv Inovacao Barueri",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
