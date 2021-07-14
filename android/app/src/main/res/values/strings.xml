@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Tv Inovação Barueri</string>
+    <string name="title_activity_main">Tv Inovação Barueri</string>
+    <string name="package_name">tv.inovacao.barueri</string>
+    <string name="custom_url_scheme">tv.inovacao.barueri</string>
+</resources>
